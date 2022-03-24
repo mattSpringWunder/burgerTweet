@@ -1,0 +1,13 @@
+server:
+  compression:
+    enabled: true
+  servlet:
+    contextPath: /api/v1/
+  port: 8089
+bobapi:
+  root-uri: https://bobsburgers-api.herokuapp.com/
+twitter:
+  auth-api-key: xxxxxx
+  auth-api-secret: xxxxxx
+  auth-api-access-token: xxxxxxx
+  auth-api-access-token-secret: xxxxxx
